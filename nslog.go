@@ -1,4 +1,4 @@
-package nslog
+package go-nslog
 
 type IosNSLogHandler interface {
 	Log(str string)
